@@ -64,7 +64,6 @@
     💡Used at least once
 </p>
 <p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=csharp&logoColor=white">
 </p>
