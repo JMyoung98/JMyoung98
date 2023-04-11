@@ -65,7 +65,7 @@
 
 <div align="center">
     
-![JMlee's github stats](https://github-readme-stats.vercel.app/api?username=JMlee98&show_icons=true)
+![JMlee's github stats](https://github-readme-stats.vercel.app/api?username=JMyoung98&show_icons=true)
 ![Language Profile](https://github-readme-stats.vercel.app/api/top-langs/?username=JMyoung98&langs_count=10)
     
 </div>
