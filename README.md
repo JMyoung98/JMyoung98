@@ -4,7 +4,7 @@
 
 <p align="center">
     <Strong>☁️Portfolio List☁️</Strong><br><br>
-    ***notion link*** :  <a href="https://ljimyeong.notion.site/fdef40653ec546b1988542560d30ce4b" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+    **notion link** :  <a href="https://ljimyeong.notion.site/fdef40653ec546b1988542560d30ce4b" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
     <br>
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJMyoung98%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br><br>
