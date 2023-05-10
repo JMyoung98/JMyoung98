@@ -72,7 +72,7 @@
 
 <div align="center">
     
-![JMlee's github stats](https://github-readme-stats.vercel.app/api?username=JMyoung98&show_icons=true)
+![JMlee's github stats](https://github-readme-stats.vercel.app/api?username=LeeJinHyoung&show_icons=true&theme=vue)
 ![Language Profile](https://github-readme-stats.vercel.app/api/top-langs/?username=JMyoung98&layout=compact&theme=vue)
     
 </div>
