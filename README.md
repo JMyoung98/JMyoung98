@@ -73,11 +73,11 @@
 
 <table><tr><td valign="top" width="50%">    
 
-![JMlee's github stats](https://github-readme-stats.vercel.app/api?username=LeeJinHyoung&show_icons=true&theme=vue)
+![JMlee's github stats](https://github-readme-stats.vercel.app/api?username=LeeJinHyoung&show_icons=true&theme=vue&width="49%")
 
 </td><td valign="top" width="50%">
 
-![Language Profile](https://github-readme-stats.vercel.app/api/top-langs/?username=JMyoung98&layout=compact&theme=vue)
+![Language Profile](https://github-readme-stats.vercel.app/api/top-langs/?username=JMyoung98&layout=compact&theme=vue&width="49%")
     
 </td></tr></table>  
 
