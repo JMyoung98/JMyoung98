@@ -73,7 +73,7 @@
 
 <table><tr><td valign="top" width="50%">    
 
-![JMlee's github stats](https://github-readme-stats.vercel.app/api?username=LeeJinHyoung&show_icons=true&theme=vue&width=200)
+![JMlee's github stats](https://github-readme-stats.vercel.app/api/?username=JMyoung98&layout=compact&theme=vue&langs_count=5&width=400&height=200&custom_title=Most%20Used%20Languages&card_width=400&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&hide_title=false&exclude_repo=JMyoung98.github.io&hide=html)
 
 </td><td valign="top" width="50%">
 
