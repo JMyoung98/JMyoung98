@@ -70,9 +70,15 @@
 
 <br>
 
-<div align="center">
-    
+
+<table><tr><td valign="top" width="50%">    
+
 ![JMlee's github stats](https://github-readme-stats.vercel.app/api?username=LeeJinHyoung&show_icons=true&theme=vue)
+
+</td><td valign="top" width="50%">
+
 ![Language Profile](https://github-readme-stats.vercel.app/api/top-langs/?username=JMyoung98&layout=compact&theme=vue)
     
-</div>
+</td></tr></table>  
+
+<br/>  
